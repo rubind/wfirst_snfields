@@ -110,7 +110,7 @@ add_CVZ()
 add_sfd()
 add_EP()
 add_plane()
-add_bright_stars()
+#add_bright_stars()
 add_fields()
 
 plt.xticks(plt.xticks()[0], [rad_to_hours(val) for val in plt.xticks()[0]])
