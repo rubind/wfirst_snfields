@@ -1,20 +1,24 @@
-RA		Dec		Field
-189.1875	62.232778	Goods-N
-161.25		58		'Lockman Hole'
-214.25		52.5		EGS
-37.833333	-4.5		XMM-LSS
-242.75		55		'Elias N-1'
-251.7		41.029167	'Elias N-2'
-218		34.28		Booties
-8.75		-43.666667	'Elias S-1'
-150.120833	2.205833	COSMOS
-53.116667	-27.808333	CDFS
-71		-52.333333	ADFS
-334.25		0.4		SSA22
-253		34.916667	Deep2A
-352.5		0		Deep2B
-210		5		VVDS14h
-265		69		'IRAC Dark Field'
-352.5		-55	     	'SPT Deep'
-270		66.560708	NEP
-90		-66.560708	SEP
+RA		Dec		Field			PlotAngle	Deg2
+189.1875	62.232778	Goods-N			0		0
+161.25		58		'Lockman Hole'		0		0
+214.25		52.5		EGS	 		0		0
+37.833333	-4.5		XMM-LSS			0		0
+242.75		55		'ELAIS N-1'		-15		0
+251.7		41.029167	'ELAIS N-2'		0		0
+218		34.28		Bootes			0		0
+8.75		-43.666667	'ELAIS S-1'		0		0
+150.120833	2.205833	COSMOS 			0		0
+53.116667	-27.808333	CDFS			0		0
+71		-52.333333	ADFS			-60		0
+334.25		0.4		SSA22			0		0
+253		34.916667	Deep2A			0		0
+352.5		0		Deep2B			-15		0
+210		5		VVDS14h			0		0
+265		69		'IRAC Dark Field'	0		0
+352.5		-55	     	'SPT Deep' 		0		0
+#57.89		-49.27		'Euclid Candidate'	15		0
+#71.56		-50.79		'Euclid Candidate'	-15		0
+119.555		-43.367		'LSST 820'		0		0
+187.625		-42.493		'LSST 858'		0		0
+176.626		-33.147		'LSST 1200'		0		0
+201.854		0.931		'LSST 1689'		0		0
